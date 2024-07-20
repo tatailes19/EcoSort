@@ -24,7 +24,7 @@ This project leverages computer vision to revolutionize waste management by dete
 
 ### Object Detection Model in Real-Time
 
-[![Object Detection Model](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Object Detection Model](images/clf.gif)
 
 *Click the image to view the video demonstrating the real-time object detection capabilities of the model.*
 
