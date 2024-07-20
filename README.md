@@ -30,7 +30,11 @@ This project leverages computer vision to revolutionize waste management by dete
 
 ### Dashboard for Waste Management
 
-[![Dashboard](https://img.youtube.com/vi/your-dashboard-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-dashboard-video-id)
+[![Dashboard](images/Ecosort_page-0001)
+
+[![Dashboard](images/Ecosort_page-0002)
+
+[![Dashboard](images/Bacs_page-0001)
 
 *Click the image to view the video showcasing the interactive dashboard for monitoring and analyzing waste data.*
 
